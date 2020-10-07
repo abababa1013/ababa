@@ -1,0 +1,184 @@
+*{
+  box-sizing:border-box;
+}
+
+
+header{
+ width:100%;
+ height:50px;
+ background-color:white;
+ color:rgb(21, 48, 56);
+ display: flex;
+ font-weight:bold;
+ justify-content:center;
+}
+
+.header-logo{
+ font-size:17px;
+ padding:10px 200px 10px 10px;
+}
+
+li{
+ font-size:10px;
+ padding:15px;
+ list-style: none;
+ float:left;
+}
+
+main{
+  margin-top:-30px;
+ text-align:center;
+ background-color:white;
+}
+
+.copy-container{
+ margin-top:-20px;
+ width:100%;
+ height:290px;
+ color:rgb(21, 48, 56);
+ margin-left: auto;
+ margin-right: auto;
+ background-image:url("../img/main-vsual-nontitle.png");
+}
+
+.catch-copy{
+ text-align:center;
+ font-size:30px;
+ padding:72px 210px 0px 210px;
+}
+
+.catch-copy-2{
+ text-align:center;
+ margin-top:8px;
+ font-size:11px;
+ padding:0px 305px;
+}
+
+.contents-1{
+  margin-top:-16px;
+  text-align:center;  
+  width:100%;
+  height:320px;
+  background-color:white;
+  color:rgb(21, 48, 56);
+  padding-top:20px;
+  padding-bottom:10px;
+}
+
+.section-title{
+ color:rgb(21, 48, 56);
+ font-weight:bold;
+ font-size:20px;
+}
+
+.a{
+ margin-left: auto;
+ margin-right: auto;
+ display: flex;
+ justify-content: center;
+}
+
+
+.contents-img{
+ width:320px;
+ height:220px;
+ padding-right:10px;
+}
+
+.a p{
+  display:block;
+  text-align:left;
+  padding-left:20px;
+  width:320px;
+  font-size:11px;
+}
+
+.contents-2{
+ margin-top:-20px;
+ height:250px;
+ text-align:center;
+ color:rgb(21, 48, 56);
+ background-color:white;
+ margin-bottom:20px;
+ padding-top:30px;
+}
+
+.course{
+ display: flex;
+ justify-content: center;
+}
+
+.course-wrapper{
+ padding-left:5px;
+}
+
+.course-img{
+ width:90%;
+}
+
+.txt-contents{
+ font-size:11px;
+ margin-top:-3px;
+}
+
+.contact-form{
+  width:100%;
+ height:280px;
+ background-color:white;
+ padding:50px 200px 0px 200px;
+ color:rgb(21, 48, 56);
+}
+
+.b{
+ font-size:10px;
+}
+
+input{
+ height:30px;
+ width:370px; 
+ border-radius:40px;
+}
+
+button{
+text-align:center;
+  display: block;
+ -webkit-appearance: none;
+ border-color:grey;
+ border-radius:3px;
+ border: none;
+ outline: none;
+ font-size:15px;
+ font-weight:bold;
+ margin-top:20px;
+ padding:15px 20px;
+ color:white;
+ width:250px;
+ background-color:rgb(233, 110, 102);
+ margin-left: auto;
+ margin-right: auto;
+}
+
+footer{
+ width:100%;
+ height:50px;
+ margin-top:-20px;
+ background-color:white;
+}
+
+hr{
+text-align:center;
+ color:rgb(218, 218, 218);
+ size:10px;
+ width:100%;
+ margin-right:50px;
+}
+
+footer h1{
+ width:100%;
+ color:rgb(105, 105, 105);
+ text-align:right;
+ padding-right:50px;
+ font-size:8px;
+ margin-left: auto;
+ margin-right: auto;
+}
